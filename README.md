@@ -1,6 +1,6 @@
-# Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
+# Ex. No. 1 - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 05/05/2024
 
 ## AIM:
 
@@ -53,10 +53,13 @@
 
 
 ## Output:
+![328029787-688c4cc7-fdee-41d6-aa40-f35e6f58b488](https://github.com/sowmya-badoni/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/152136324/46a22660-dd4e-40d2-9b31-70712d4e2cad)
+![328029802-9ea3ccfa-decc-43b2-ae9e-63d4b72389f5](https://github.com/sowmya-badoni/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/152136324/a3f17e46-4a3b-42ef-ab61-6b58096ff3cb)
+![328029807-ba8e3109-73aa-4d3c-9909-f8bc9dc0e76e](https://github.com/sowmya-badoni/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/152136324/e3686988-1b28-48a9-abcd-2ba7ab67acc5)
 
 
-### Name:
-### Register Number: 
+### Name:SOEMYA BADONI
+### Register Number: 212223230211
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
